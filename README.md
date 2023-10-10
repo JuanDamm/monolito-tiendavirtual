@@ -1,7 +1,7 @@
 # monolito-tiendavirtual
 ¡Hola! 👋
 
-Nuestra tienda virtual se llamma Airfiney y nuestro grupo de proyecto está conformado por: 
+Nuestra tienda virtual se llama Airfiney y nuestro grupo de proyecto está conformado por: 
 
 -Josue Daniel Audor Builes 
 
@@ -12,5 +12,7 @@ Nuestra tienda virtual se llamma Airfiney y nuestro grupo de proyecto está conf
 -Marlon Torres 
 
 -Erick Daniel Peña Cedeño
+
+*¡Gracias por visitar nuestro perfil!*
 
 
